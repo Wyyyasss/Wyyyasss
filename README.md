@@ -1,7 +1,7 @@
-°  I’m Wyyyas
+I’m Wyyyas,I don't know how to use in this application,can somebody help me?
 phone: Galaxy A02
 os   :A022FXX
-<!---S3BHW1 
+
 pkge: Unknown
 up:7 months,6 week,1 day,3 hours,15 second
 ram:5888mb/9788mb
